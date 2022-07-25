@@ -14,6 +14,15 @@ body {
     border: 5px solid #05347e;
 }
 
+#dogs {
+    display: fluid;
+    max-width: 400px;
+    max-height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #menu-button {
     background-color: #05347e;
     color: white;
@@ -76,3 +85,9 @@ form input, form textarea {
  background: white;
  font-size: 16px;
 }
+
+#bio {
+    margin-left: 75px;
+    
+}
+
